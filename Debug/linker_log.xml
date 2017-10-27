@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Program Files (x86)/Analog Devices/VisualDSP 5.1.2/System/linker_log.xsl"?>
+<DOCUMENT gen_time='Wed Jan 20 12:27:21 2016
+'>
+<MSG id='024C83F0' mid='li1050' type='Error' >
+<TEXT><![CDATA['_main' ('main'): Multiply defined symbol in processor 'p0'.
+        Initial definition:     '.\Debug\finalproject.doj'
+        Attempted redefinition: '.\Debug\main.doj']]></TEXT>
+</MSG>
+</DOCUMENT>
